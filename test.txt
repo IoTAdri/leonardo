@@ -1,2 +1,6 @@
 dit is een test
 om te zien of dit mogelijk is.
+regel 3
+regel 4
+regel 5
+zomaar 6
